@@ -1,0 +1,14 @@
+name: Custom-Message-Menager
+version: '1.0-SNAPSHOT'
+main: pl.CustomMessageMenager.customMessageMenagerCMM.CustomMessageMenagerCMM
+api-version: '1.21'
+commands:
+  cmm:
+    description: Custom Message Manager
+    usage: /cmm reload
+    permission: cmm.reload
+
+permissions:
+  cmm.reload:
+    default: op
+

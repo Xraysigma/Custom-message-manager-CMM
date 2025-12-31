@@ -1,0 +1,5 @@
+messages:
+  join: "&e&l>> &fWelcome to the serwer &a{PLAYER}!"
+  reload: "Plugin is correctly reload!"
+  no-permission: "You don't have permissions!"
+  usage: "Usage /cmm reload"
