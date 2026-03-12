@@ -1,6 +1,9 @@
 messages:
   join: "&e&l>> &fWelcome to the serwer &a{PLAYER}!"
   quit: "&e&l>> &fSee you later &a{PLAYER}!"
+  death: "&4{PLAYER} Death!"
+  change-of-dimension: "&6You are on {DIMENSION}"
+  change-of-gamemode: "&5You gamemode is {GAMEMODE}"
   reload: "Plugin is correctly reload!"
   no-permission: "You don't have permissions!"
   usage: "Usage /cmm reload"

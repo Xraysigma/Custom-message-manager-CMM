@@ -1,5 +1,5 @@
 name: Custom-Message-Menager
-version: '1.0-Release'
+version: '2.0-Release'
 main: pl.CustomMessageMenager.customMessageMenagerCMM.CustomMessageMenagerCMM
 api-version: '1.21'
 author: Xraysigma
@@ -12,4 +12,3 @@ commands:
 permissions:
   cmm.reload:
     default: op
-
